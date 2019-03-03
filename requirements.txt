@@ -1,0 +1,3 @@
+gTTs
+feedparser
+html2text
